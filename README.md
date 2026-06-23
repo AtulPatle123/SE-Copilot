@@ -18,3 +18,4 @@ A React + TypeScript AI-style chatbot interface with a dummy API layer, modern c
 ## Notes
 
 The current response flow uses a dummy async service so you can later replace it with a real backend or AI API without rewriting the UI layer.
+# SE-Copilot
